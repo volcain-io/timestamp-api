@@ -7,9 +7,9 @@ Timestamp microservice based on Node.js
 
 Example usage:
 ```
-http://{server:port}/December%2015,%202015
+https://desolate-caverns-25727.herokuapp.com/December%2015,%202015
 
-http://{server:port}/1450137600
+https://desolate-caverns-25727.herokuapp.com/1450137600
 ```
 
 Example output:
